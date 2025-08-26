@@ -1,4 +1,4 @@
-# This is not the official/latest repo, see [Here](https://github.com/MontagueM/Charm/tree/delta/TFS) for the latest.
+# This is not the official/latest repo, see [Here](https://github.com/MontagueM/Charm/tree/delta/EOF) for the latest.
 
 # Charm - the Destiny tool that does everything
 
